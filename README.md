@@ -2,4 +2,4 @@
 ## Creado por: **Carlos Espinoza**
 ### Correo: *carlos.espinoza@debite.com.mx*
 ** BUAP @GITHUB Kotlin **
-![Kotlin Logo] (kotlinlogo.png)
+![Kotlin Logo](./kotlinlogo.png)
